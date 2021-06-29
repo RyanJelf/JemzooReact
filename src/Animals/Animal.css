@@ -1,0 +1,19 @@
+.Animal .myPic {
+  border-radius: 25px 10px 25px 10px;
+  max-width: 80%;
+  justify-content: center;
+  }
+.Animal {
+align-items: center;
+  outline: 2px solid #07b65e;
+  box-shadow: 5px 5px 25px #6c661c;
+    width:calc(25% - 4.2em);
+    padding:1em;
+    margin:1em;
+}
+
+.centerText {
+  text-align: center;
+}
+
+

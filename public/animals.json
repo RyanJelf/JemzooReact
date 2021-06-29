@@ -1,0 +1,34 @@
+[
+    {
+       
+        "animalPic":"./images/lion.jpg",
+        "animalType":"Lion",
+        "animalDesc":"Our lions are the pride of Jems zoo, why not come for a visit to our special viewing area which is situated above the pride lands of our lions, so you can see them roam their habitat with ease. We ensure that their holdings have special mounds for them to be able to relax and view their environment replicating life in the wild. "
+    },
+    {
+       
+        "animalPic":"./images/chimp.jpg",
+        "animalType":"Chimpanzees",
+        "animalDesc":"The most important way that we ensure that the Chimpanzees are looked after is through their diet, here at Jems we ensure that our Chimpanzees receive a very varied and fresh diet including apples, carrots, oranges, cabbages and of course bananas. When it comes to maintaining their health we have specialist zoo keepers who have trained our Chimpanzees to put their hands through the bars in their housings in order for us to be able to administer any treatments which should make the process less traumatic."
+    },    {
+    
+        "animalPic":"./images/elephant.jpg",
+        "animalType":"Elephants",
+        "animalDesc":"Here at Jems we have a specialist Elephant care facility that features a huge outdoor space which allows them to roam and feel at home. We also have a cosy indoor space where they have soft and deep sand floor to keep them comfy and give them the change to create their own mounds to sleep and relax in. We like to make sure that the most seamless transition between day and nighttime is maintained with specialist lights to keep our Elephants happy. "
+    },    {
+
+        "animalPic":"images/rhino.jpg",
+        "animalType":"Rhinos ",
+        "animalDesc":"In our Zoo we have a rhino exhibit which is designed to make the Rhinos feel safe and at home. The exhibit features indoor heating pools so that they can enjoy their most favourite activity - rolling and playing in muddy water - at any point of the year. We make sure that the Rhino’s have the upmost care for their feet including rubber flooring and specialised foot care keepers. "
+    },    {
+
+        "animalPic":"images/penguins.jpg",
+        "animalType":"Penguins",
+        "animalDesc":"Penguins are one of our most popular animals here at Jems Zoo. when you come to visit you will find they have a natural environment with special feeding pools and rock formations for those that like to hop around. Why not include their feeding time into your visit itinerary and see how they like to tuck into their grub. "
+    },    {
+       
+        "animalPic":"images/redpanda.jpg",
+        "animalType":"Red Panda",
+        "animalDesc":"Our Red Pandas are shy creatures by nature and like to have many areas to relax and stretch out in warmer weather to cool off, so here at Jems Zoo we have many large trees that allow them to do this. In the colder months they climb and nest in the trees to keep warm and can always be spotted due to their distinct colour."
+    }
+]

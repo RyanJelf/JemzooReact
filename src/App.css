@@ -1,0 +1,100 @@
+.centerText {
+  text-align: center;
+}
+/* Header Styling */
+header {
+  padding: 45px;
+  background-color: #07c063;
+  text-align: center;
+  overflow: hidden;
+  color: white;
+  font-size: 50px;
+}
+
+
+/* Body Styling */
+.App {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgba(255, 255, 255, 0.972);
+  color: white;
+  margin: auto;
+  max-width: 90%;
+  padding: 10px;
+  min-width: 310px;
+}
+
+/* Navigation Styling */
+.nav {
+  overflow: hidden;
+  background-color: #07b65e;
+}
+.nav ul {
+  text-align: center;
+  list-style-type: none;
+}
+.nav ul li {
+  display: inline;
+  font-size: 150%;
+}
+.nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+}
+.nav ul li a:hover {
+  color: #746e1e;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  grid-gap: 20px;
+}
+.grid .gridSection {
+  width: 28.3333333333%;
+
+  outline: 2px solid #07b65e;
+  box-shadow: 5px 5px 25px #6c661c;
+}
+.grid .gridSection:nth-child(n) {
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.grid .gridSection:nth-child(3n) {
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.grid img {
+  border-radius: 25px 10px 25px 10px;
+  max-width: 80%;
+  max-height: 50%;
+}
+
+.wrapper {
+  background: #08ca68;
+  text-align: left;
+  padding: 20px;
+
+}
+
+table {
+  box-shadow: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+table td {
+  border-bottom: 2px dotted rgba(239, 243, 243, 0.972);
+}
+
+/* footer Styling */
+footer {
+  padding: 1.5px;
+  background-color: #07ac59;
+  text-align: center;
+  overflow: hidden;
+  color: white;
+}

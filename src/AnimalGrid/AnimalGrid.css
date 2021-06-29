@@ -1,0 +1,4 @@
+.AnimalGrid {
+    display:flex;
+    flex-flow: row wrap;
+}

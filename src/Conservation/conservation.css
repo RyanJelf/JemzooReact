@@ -1,0 +1,36 @@
+.kidGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-template-rows: repeat(2, 50%);
+    padding: 5%;
+  }
+  .kidGrid img {
+    border-radius: 50%;
+    max-width: 90%;
+    min-width: 20%;
+    justify-content: center;
+  }
+  .kidGrid .box-1 {
+    align-self: center;
+    justify-self: center;
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .kidGrid .box-2 {
+    align-self: center;
+    justify-self: center;
+    grid-column: 2/span 3;
+    grid-row: 1;
+  }
+  .kidGrid .box-3 {
+    align-self: center;
+    justify-self: center;
+    grid-column: 3;
+    grid-row: 2;
+  }
+  .kidGrid .box-4 {
+    align-self: center;
+    justify-self: center;
+    grid-column: 1/span 2;
+    grid-row: 2;
+  }
